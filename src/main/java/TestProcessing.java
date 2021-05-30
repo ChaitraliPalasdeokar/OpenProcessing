@@ -36,11 +36,11 @@ public class TestProcessing extends PApplet{
         //getBackground();
         drawCircle1(1,1);
 
-       // drawCircle2(2,2);
+        drawCircle2(2,2);
 
-        //drawCircle3(3,3);
+        drawCircle3(3,3);
 
-        //drawCircle4(4,4);
+        drawCircle4(4,4);
 
     }
 
